@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "LugmetyOrderAssistant"
-include(":app")
+include(":App")
